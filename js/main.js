@@ -59,8 +59,7 @@ jQuery(document).ready(function($) {
       },
       1000: {
         items: 3,
-        nav: true,
-        loop: false
+        nav: true
       }
     }
   });
